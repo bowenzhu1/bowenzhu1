@@ -16,5 +16,5 @@ I'm Bowen (he/him), a Computer Science at the University of Waterloo. I'm curren
 * my travel bucket list!
 
 ### 📫 How to reach me
-<a href="mailto:b55zhu@uwaterloo.ca"><img width=25 src="https://img.icons8.com/mail" alt="email"/></a>
+* <a href="mailto:b55zhu@uwaterloo.ca"><img width=25 src="https://img.icons8.com/mail" alt="email"/></a>
 <a href="https://www.linkedin.com/in/bowenzhu1/"><img width=25 src="https://img.icons8.com/color/linkedin" alt="email"/></a>
