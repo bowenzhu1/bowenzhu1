@@ -1,11 +1,12 @@
 ### Hello! 👋
-I'm Bowen (he/him), a Computer Science at the University of Waterloo. I'm currently seeking 2023 internships (Winter/Summer/Fall) in SWE or product management. Thanks for stopping by!
+I'm Bowen (he/him), a Computer Science at the University of Waterloo. Thanks for stopping by!
 
 ### 🔎 Currently working on
-* modernizing payments as a software engineer intern at [Extend](https://www.paywithextend.com/)
-* leading product for a medium-term housing marketplace at [Kopa](https://kopa.co/)
+* product management on Words With Friends at [Zynga]!(https://www.zynga.com/games/words-with-friends-2/)
+* leading a project for social good at [UW Blueprint](https://uwblueprint.org/)
 
 ### 📌 Previously
+* built virtual credit card features as a software engineer intern at [Extend](https://www.paywithextend.com/)
 * created features for enterprise apps as an intern at [VTS](https://www.vts.com/)
 * developed several iOS apps over an internship + part-time at [CodeWithChris](https://codewithchris.com/)
 * helped managed tutoring programs at [StudentZ](https://www.studentz.ca/) 
