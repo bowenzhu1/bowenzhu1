@@ -2,7 +2,7 @@
 I'm Bowen (he/him), a Computer Science at the University of Waterloo. Thanks for stopping by!
 
 ### 🔎 Currently working on
-* product management on Words With Friends at [Zynga]!(https://www.zynga.com/games/words-with-friends-2/)
+* product management on Words With Friends at [Zynga](https://www.zynga.com/games/words-with-friends-2/)
 * leading a project for social good at [UW Blueprint](https://uwblueprint.org/)
 
 ### 📌 Previously
