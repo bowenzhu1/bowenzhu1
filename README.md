@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm Bowen (he/him), a Computer Science at the University of Waterloo. Thanks for stopping by!
+I'm Bowen (he/him), a Computer Science student at the University of Waterloo. Thanks for stopping by!
 
 ### 🔎 Currently working on
 * product management on Words With Friends at [Zynga](https://www.zynga.com/games/words-with-friends-2/)
