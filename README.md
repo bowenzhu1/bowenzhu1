@@ -2,10 +2,11 @@
 I'm Bowen (he/him), a Computer Science student at the University of Waterloo. Thanks for stopping by!
 
 ### 🔎 Currently working on
-* product management on Words With Friends at [Zynga](https://www.zynga.com/games/words-with-friends-2/)
+* software development for advertisement reporting at [Amazon](https://advertising.amazon.com/)
 * leading a project for social good at [UW Blueprint](https://uwblueprint.org/)
 
 ### 📌 Previously
+* product management on Words With Friends at [Zynga](https://www.zynga.com/games/words-with-friends-2/)
 * built virtual credit card features as a software engineer intern at [Extend](https://www.paywithextend.com/)
 * created features for enterprise apps as an intern at [VTS](https://www.vts.com/)
 * developed several iOS apps over an internship + part-time at [CodeWithChris](https://codewithchris.com/)
